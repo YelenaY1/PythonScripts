@@ -2,11 +2,11 @@
 """
 Created on Thu Sep  6 18:48:31 2018
 
-@author: liupan010
+@author: liupan
 """
 
-f = open(r'cubeList.txt', 'r')
-p = open(r'cubeRes.txt', 'w')
+f = open(r'File1.txt', 'r')
+p = open(r'Res.txt', 'w')
 res = []
 
 for line in f:
